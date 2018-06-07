@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get The Movie</string>
+    <string name="api_key">93aea0c77bc168d8bbce3918cefefa45</string>
+    <string name="firstPage">1</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Movie search</string>
+
+</resources>
